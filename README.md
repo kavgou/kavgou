@@ -13,14 +13,14 @@ Please request to view :) Thank you!
 
 | Repository | Description | Main Languages | Link |
 |------------|-------------|---------------|------|
-| **dvsf_regional_final_2023** | Haircare | Python (100%) | [View Repo](https://github.com/kavgou/dvsf_regional_final_2023) |
-| **SweatSafe_Electronics_V1** | *(No description)* | *(Language info not available)* | [View Repo](https://github.com/kavgou/SweatSafe_Electronics_V1) |
-| **SweatSafe_Electronics_V2** | *(No description)* | C++ (100%) | [View Repo](https://github.com/kavgou/SweatSafe_Electronics_V2) |
-| **tto8-timer** | timer | Verilog (52.6%), Python (23.9%), Makefile (23.5%) | [View Repo](https://github.com/kavgou/tto8-timer) |
-| **pjas2022_haircare** | *(No description)* | *(Language info not available)* | [View Repo](https://github.com/kavgou/pjas2022_haircare) |
-| **pjas2021_haircare** | *(No description)* | Python (100%) | [View Repo](https://github.com/kavgou/pjas2021_haircare) |
-| **python_codebits** | *(No description)* | Python (100%) | [View Repo](https://github.com/kavgou/python_codebits) |
-| **harrypotter-py** | My first python programming | Python (66.5%), Vim Script (28.2%), Shell (5.3%) | [View Repo](https://github.com/kavgou/harrypotter-py) |
+| **dvsf_regional_final_2023** | Haircare PC | Python  | [View Repo](https://github.com/kavgou/dvsf_regional_final_2023) |
+| **SweatSafe_Electronics_V1** | SweatSafe Arduino | C++ | [View Repo](https://github.com/kavgou/SweatSafe_Electronics_V1) |
+| **SweatSafe_Electronics_V2** | SweatSafe Arduino | C++  | [View Repo](https://github.com/kavgou/SweatSafe_Electronics_V2) |
+| **tto8-timer** | timer | * * | [View Repo](https://github.com/kavgou/tto8-timer) |
+| **pjas2022_haircare** | Haircare PC | Python | [View Repo](https://github.com/kavgou/pjas2022_haircare) |
+| **pjas2021_haircare** | Haircare PC | Python | [View Repo](https://github.com/kavgou/pjas2021_haircare) |
+| **python_codebits** | Learning | Python  | [View Repo](https://github.com/kavgou/python_codebits) |
+| **harrypotter-py** | My first python programming | Python | [View Repo](https://github.com/kavgou/harrypotter-py) |
 
 ---
 
