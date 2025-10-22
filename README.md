@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 My name is Kavya Gounder, senior in high school.
-<!--
-**kavgou/kavgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**kavgou/kavgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # kavgou GitHub Repositories
 
@@ -27,4 +25,3 @@ Welcome to my GitHub homepage! Below is a list of my public repositories, each w
 
 *Descriptions and language breakdowns are taken from repository metadata. For more details, visit each repository.*
 
--->
